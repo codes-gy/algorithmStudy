@@ -12,9 +12,6 @@
 ![Python3](https://img.shields.io/badge/Python-3.12+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-v20+-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-![Baekjoon](https://img.shields.io/badge/Baekjoon-Online_Judge-0076C6?style=for-the-badge&logo=googlechrome&logoColor=white)
-![Programmers](https://img.shields.io/badge/Programmers-Level_0~5-1E2B37?style=for-the-badge&logo=javascript&logoColor=white)
-
 
 </div>
 
